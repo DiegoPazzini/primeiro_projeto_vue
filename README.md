@@ -34,4 +34,4 @@ Página desevolvida com Vue.Js, criando um formuário de lista de tarefas, sendo
 Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.
 
 <h2>Visualização Online</h2>
-<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
+<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link: https://primeiro-projeto-vue-mvtd.vercel.app/
