@@ -29,7 +29,7 @@ npm run build
 ```
 <h2>Descrição do Projeto</h2>
 
-Página desenvolvida com Vue.Js, criando um formuário de lista de tarefas, sendo posssível informar o status das mesmas e acrescentar uma tarefa e/ou marcar ela como finalizada em sue respectivo checkbox.
+Página desenvolvida com Vue.Js, criando um formuário de lista de tarefas, sendo posssível informar o status das mesmas e acrescentar uma tarefa, e/ou marcar ela como finalizada em sue respectivo checkbox.
 
 Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.
 
